@@ -1,0 +1,443 @@
+{
+  "products": [
+    {
+      "id": "prod-cel-01",
+      "slug": "obsidian-pro-5g-256",
+      "name": "Obsidian Pro 5G 256 GB",
+      "brand": "Obsidian",
+      "category": "Celulares",
+      "condition": "Nuevo",
+      "price": 849000,
+      "oldPrice": 990000,
+      "discountPercent": 14,
+      "shortDescription": "Pantalla AMOLED 120 Hz, triple cámara de 108 MP y chasis de titanio.",
+      "description": "Smartphone insignia sellado de fábrica con procesador octa-core de última generación, carga rápida de 65W, conectividad 5G dual SIM y certificación IP68.",
+      "specs": [
+        {
+          "label": "Pantalla",
+          "value": "6.7\" AMOLED LTPO 120 Hz"
+        },
+        {
+          "label": "Almacenamiento",
+          "value": "256 GB UFS 4.0"
+        },
+        {
+          "label": "Memoria RAM",
+          "value": "12 GB LPDDR5X"
+        },
+        {
+          "label": "Batería",
+          "value": "5000 mAh · Carga 65W"
+        }
+      ],
+      "stock": 9,
+      "warranty": "12 meses de garantía oficial Electro Tecno",
+      "image": "/src/assets/images/prod_phone_nova_pro_1794919175863.jpg",
+      "featured": true,
+      "onSale": true
+    },
+    {
+      "id": "prod-cel-02",
+      "slug": "revive-s23-reacondicionado-128",
+      "name": "Revive S23 Certified 128 GB",
+      "brand": "Revive",
+      "category": "Celulares",
+      "condition": "Usado",
+      "price": 465000,
+      "oldPrice": 540000,
+      "discountPercent": 14,
+      "shortDescription": "Equipo usado seleccionado con batería al 96% y testeo técnico de 32 puntos.",
+      "description": "Celular usado en estado estético impecable, revisado por nuestro laboratorio técnico. Incluye cable USB-C trenzado y garantía escrita de funcionamiento.",
+      "specs": [
+        {
+          "label": "Estado estético",
+          "value": "Grado A+ (sin marcas)"
+        },
+        {
+          "label": "Salud de batería",
+          "value": "96% certificada"
+        },
+        {
+          "label": "Almacenamiento",
+          "value": "128 GB · 8 GB RAM"
+        },
+        {
+          "label": "Liberado",
+          "value": "Todas las operadoras"
+        }
+      ],
+      "stock": 5,
+      "warranty": "6 meses de garantía técnica escrita",
+      "image": "/src/assets/images/prod_phone_used_mint_1794919177094.jpg",
+      "featured": true,
+      "onSale": true
+    },
+    {
+      "id": "prod-cel-03",
+      "slug": "emerald-mini-5g-128",
+      "name": "Emerald Compact 5G 128 GB",
+      "brand": "Emerald",
+      "category": "Celulares",
+      "condition": "Nuevo",
+      "price": 589000,
+      "shortDescription": "Formato compacto de 6.1\" OLED, estabilización óptica y audio estéreo.",
+      "description": "Diseñado para uso ágil con una mano sin resignar potencia. Pantalla OLED de alto contraste, sensor principal nocturno y batería optimizada para toda la jornada.",
+      "specs": [
+        {
+          "label": "Pantalla",
+          "value": "6.1\" OLED Super Retina"
+        },
+        {
+          "label": "Almacenamiento",
+          "value": "128 GB"
+        },
+        {
+          "label": "Conectividad",
+          "value": "5G · Wi-Fi 6E · NFC"
+        },
+        {
+          "label": "Cámara",
+          "value": "Dual 50 MP OIS"
+        }
+      ],
+      "stock": 12,
+      "warranty": "12 meses de garantía oficial",
+      "image": "/src/assets/images/prod_phone_compact_5g_1794919177274.jpg",
+      "featured": false,
+      "onSale": false
+    },
+    {
+      "id": "prod-pc-01",
+      "slug": "pc-workstation-rtx-ryzen",
+      "name": "PC Nocturna Ryzen 7 + RTX 4060",
+      "brand": "Electro Custom",
+      "category": "PC y Netbooks",
+      "condition": "Nuevo",
+      "price": 1490000,
+      "oldPrice": 1750000,
+      "discountPercent": 15,
+      "shortDescription": "Torre armada con 32 GB DDR5, SSD NVMe 1 TB y refrigeración silenciosa.",
+      "description": "Computadora de escritorio ensamblada y testeada para edición, desarrollo y gaming en 1440p. Gabinete con vidrio templado ahumado y flujo de aire optimizado.",
+      "specs": [
+        {
+          "label": "Procesador",
+          "value": "AMD Ryzen 7 7700X"
+        },
+        {
+          "label": "Gráficos",
+          "value": "GeForce RTX 4060 8 GB"
+        },
+        {
+          "label": "Memoria / Disco",
+          "value": "32 GB DDR5 · 1 TB NVMe"
+        },
+        {
+          "label": "Fuente",
+          "value": "750W 80+ Gold Modular"
+        }
+      ],
+      "stock": 4,
+      "warranty": "24 meses en componentes",
+      "image": "/src/assets/images/prod_pc_workstation_1794919177398.jpg",
+      "featured": true,
+      "onSale": true
+    },
+    {
+      "id": "prod-nb-01",
+      "slug": "netbook-aether-air-13",
+      "name": "Netbook Aether Air 13.3\" Pro",
+      "brand": "Aether",
+      "category": "PC y Netbooks",
+      "condition": "Usado",
+      "price": 420000,
+      "shortDescription": "Ultraliviana en aluminio, SSD 512 GB y batería de hasta 11 horas.",
+      "description": "Netbook ejecutiva reacondicionada con mantenimiento térmico recién realizado, pasta térmica de alta conductividad y sistema operativo limpio listo para trabajar o estudiar.",
+      "specs": [
+        {
+          "label": "Pantalla",
+          "value": "13.3\" IPS Full HD Antirreflejo"
+        },
+        {
+          "label": "Procesador",
+          "value": "Intel Core i5 12va Gen"
+        },
+        {
+          "label": "Memoria / SSD",
+          "value": "16 GB RAM · 512 GB NVMe"
+        },
+        {
+          "label": "Peso",
+          "value": "1.18 kg chasis aluminio"
+        }
+      ],
+      "stock": 6,
+      "warranty": "6 meses de garantía técnica",
+      "image": "/src/assets/images/prod_netbook_air_1794919179939.jpg",
+      "featured": false,
+      "onSale": false
+    },
+    {
+      "id": "prod-mon-01",
+      "slug": "monitor-27-qhd-165hz",
+      "name": "Monitor Frameless 27\" QHD 165 Hz",
+      "brand": "VisionLab",
+      "category": "Monitores",
+      "condition": "Nuevo",
+      "price": 385000,
+      "oldPrice": 455000,
+      "discountPercent": 15,
+      "shortDescription": "Panel IPS 2560x1440 sin marcos, 1 ms MPRT y base metálica regulable.",
+      "description": "Calibrado de fábrica con 99% sRGB para diseño, programación y gaming fluido. Incluye entradas DisplayPort 1.4, HDMI 2.0 y filtro de luz azul.",
+      "specs": [
+        {
+          "label": "Resolución",
+          "value": "2560 x 1440 (QHD)"
+        },
+        {
+          "label": "Tasa de refresco",
+          "value": "165 Hz · 1 ms"
+        },
+        {
+          "label": "Panel",
+          "value": "27\" Fast IPS antirreflejo"
+        },
+        {
+          "label": "Puertos",
+          "value": "2x HDMI · 1x DisplayPort"
+        }
+      ],
+      "stock": 7,
+      "warranty": "12 meses de garantía oficial",
+      "image": "/src/assets/images/prod_monitor_qhd_1794919179173.jpg",
+      "featured": true,
+      "onSale": true
+    },
+    {
+      "id": "prod-per-01",
+      "slug": "teclado-mecanico-75-aluminio",
+      "name": "Teclado Mecánico 75% Aluminum",
+      "brand": "KeyForge",
+      "category": "Periféricos",
+      "condition": "Nuevo",
+      "price": 118000,
+      "shortDescription": "Switches táctiles hot-swap, keycaps PBT y perilla rotativa metálica.",
+      "description": "Construcción sólida en aluminio anodizado con montaje gasket mount, iluminación verde regulable por tecla y conexión triple modo USB-C / 2.4 GHz / Bluetooth.",
+      "specs": [
+        {
+          "label": "Formato",
+          "value": "75% compacto con knob"
+        },
+        {
+          "label": "Switches",
+          "value": "Lineales lubricados Hot-Swap"
+        },
+        {
+          "label": "Keycaps",
+          "value": "PBT Double-Shot mate"
+        },
+        {
+          "label": "Conectividad",
+          "value": "USB-C / Wireless 2.4 GHz / BT"
+        }
+      ],
+      "stock": 15,
+      "warranty": "12 meses de garantía",
+      "image": "/src/assets/images/prod_keyboard_mech_1794919179114.jpg",
+      "featured": false,
+      "onSale": false
+    },
+    {
+      "id": "prod-per-02",
+      "slug": "mouse-ergo-light-wireless",
+      "name": "Mouse Inalámbrico Ergo-Light 26K",
+      "brand": "ErgoLight",
+      "category": "Periféricos",
+      "condition": "Nuevo",
+      "price": 76000,
+      "oldPrice": 92000,
+      "discountPercent": 17,
+      "shortDescription": "Chasis ultraliviano de 54 g, sensor óptico 26.000 DPI y glides PTFE.",
+      "description": "Precisión competitiva sin cables con receptor USB-C de baja latencia, switches ópticos de 80 millones de clics y hasta 70 horas de autonomía continua.",
+      "specs": [
+        {
+          "label": "Peso",
+          "value": "54 gramos estructura honeycomb"
+        },
+        {
+          "label": "Sensor",
+          "value": "PAW3395 · hasta 26.000 DPI"
+        },
+        {
+          "label": "Batería",
+          "value": "Hasta 70 h · carga USB-C"
+        },
+        {
+          "label": "Polling Rate",
+          "value": "1000 Hz inalámbrico"
+        }
+      ],
+      "stock": 18,
+      "warranty": "12 meses de garantía",
+      "image": "/src/assets/images/prod_mouse_pro_1794919179425.jpg",
+      "featured": false,
+      "onSale": true
+    },
+    {
+      "id": "prod-acc-01",
+      "slug": "auriculares-onyx-studio-anc",
+      "name": "Auriculares Onyx Studio ANC",
+      "brand": "Onyx Audio",
+      "category": "Accesorios",
+      "condition": "Nuevo",
+      "price": 164000,
+      "oldPrice": 205000,
+      "discountPercent": 20,
+      "shortDescription": "Cancelación activa híbrida de -42 dB, drivers de 40 mm y 50 h de batería.",
+      "description": "Audio de alta fidelidad con almohadillas viscoelásticas, bisagras de acero cepillado y modo transparencia para llamadas nítidas en cualquier entorno.",
+      "specs": [
+        {
+          "label": "Cancelación",
+          "value": "ANC Híbrida 42 dB"
+        },
+        {
+          "label": "Autonomía",
+          "value": "50 horas (ANC activo)"
+        },
+        {
+          "label": "Códecs",
+          "value": "LDAC / AAC / SBC · BT 5.3"
+        },
+        {
+          "label": "Carga rápida",
+          "value": "10 min = 5 horas de uso"
+        }
+      ],
+      "stock": 11,
+      "warranty": "12 meses de garantía oficial",
+      "image": "/src/assets/images/prod_headphones_studio_1794919179431.jpg",
+      "featured": true,
+      "onSale": true
+    },
+    {
+      "id": "prod-acc-02",
+      "slug": "auriculares-tws-pulse-buds",
+      "name": "Auriculares In-Ear TWS Pulse",
+      "brand": "Pulse",
+      "category": "Accesorios",
+      "condition": "Nuevo",
+      "price": 54000,
+      "shortDescription": "Estuche compacto mate con carga USB-C, micrófono dual y resistencia IPX5.",
+      "description": "Ajuste ergonómico ultraligero para entrenamiento y uso urbano. Baja latencia en modo juego y emparejamiento instantáneo al abrir el estuche.",
+      "specs": [
+        {
+          "label": "Autonomía total",
+          "value": "28 horas con estuche"
+        },
+        {
+          "label": "Resistencia",
+          "value": "IPX5 contra sudor y lluvia"
+        },
+        {
+          "label": "Bluetooth",
+          "value": "5.3 multipunto"
+        },
+        {
+          "label": "Puerto",
+          "value": "USB-C carga rápida"
+        }
+      ],
+      "stock": 24,
+      "warranty": "6 meses de garantía",
+      "image": "/src/assets/images/prod_earbuds_tws_1794919179982.jpg",
+      "featured": false,
+      "onSale": false
+    },
+    {
+      "id": "prod-acc-03",
+      "slug": "cargador-gan-65w-cable-trenzado",
+      "name": "Cargador Rápido 65W GaN + Cable USB-C",
+      "brand": "VoltCore",
+      "category": "Accesorios",
+      "condition": "Nuevo",
+      "price": 42500,
+      "shortDescription": "Tecnología GaN compacta dual USB-C PD 3.0 con cable mallado de 2 metros.",
+      "description": "Cargá celulares, tablets y netbooks al mismo tiempo sin sobrecalentamiento. Protección inteligente contra picos de tensión y cortocircuitos.",
+      "specs": [
+        {
+          "label": "Potencia",
+          "value": "65W Power Delivery 3.0 / PPS"
+        },
+        {
+          "label": "Salidas",
+          "value": "2x USB-C simultáneos"
+        },
+        {
+          "label": "Cable incluido",
+          "value": "USB-C a USB-C 100W · 2 m"
+        },
+        {
+          "label": "Seguridad",
+          "value": "Control térmico GaN II"
+        }
+      ],
+      "stock": 30,
+      "warranty": "12 meses de garantía",
+      "image": "/src/assets/images/prod_charger_gan65_1794919180056.jpg",
+      "featured": false,
+      "onSale": false
+    },
+    {
+      "id": "prod-acc-04",
+      "slug": "funda-aramid-kevlar-magnetica",
+      "name": "Funda Fibra Aramida Magnética Pro",
+      "brand": "ShieldX",
+      "category": "Accesorios",
+      "condition": "Nuevo",
+      "price": 29900,
+      "shortDescription": "Tejido de fibra aramida ultra resistente de 0.9 mm con anillo magnético.",
+      "description": "Protección premium contra impactos sin sumar volumen. Bordes elevados alrededor del módulo de cámaras y compatibilidad total con carga inalámbrica magnética.",
+      "specs": [
+        {
+          "label": "Material",
+          "value": "Fibra aramida aeroespacial 600D"
+        },
+        {
+          "label": "Grosor",
+          "value": "0.9 mm perfil ultrafino"
+        },
+        {
+          "label": "Imán",
+          "value": "Anillo N52 integrado"
+        },
+        {
+          "label": "Compatibilidad",
+          "value": "Series Pro y Ultra recientes"
+        }
+      ],
+      "stock": 22,
+      "warranty": "6 meses de garantía",
+      "image": "/src/assets/images/prod_case_aramid_1794919180673.jpg",
+      "featured": false,
+      "onSale": false
+    }
+  ],
+  "users": [],
+  "sessions": [],
+  "carts": [],
+  "orders": [],
+  "repairs": [
+    {
+      "id": "d1679a80-3e2a-4cd8-acee-e39a756988a2",
+      "ticketNumber": "ST-321",
+      "customerName": "Laura Díaz",
+      "customerEmail": "laura@ejemplo.com",
+      "customerPhone": "1155551234",
+      "deviceModel": "iPhone 14 Pro",
+      "issueType": "Cambio de pantalla / módulo",
+      "description": "Vidrio astillado, táctil funciona",
+      "status": "Recibido",
+      "createdAt": "2026-11-17T12:51:18.765Z"
+    }
+  ],
+  "contacts": []
+}

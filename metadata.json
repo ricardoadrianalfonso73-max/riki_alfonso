@@ -1,0 +1,6 @@
+{
+  "name": "Electro Tecno",
+  "description": "Tienda tecnológica Tech Nocturno: celulares nuevos y usados, computación, periféricos, accesorios y servicio técnico especializado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
